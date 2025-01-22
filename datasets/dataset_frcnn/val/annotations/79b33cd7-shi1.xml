@@ -1,0 +1,1 @@
+<annotation><folder>images</folder><filename>79b33cd7-shi1.png</filename><source><database>Unknown</database></source><size><width>122</width><height>95</height><depth>3</depth></size><object><name>shi</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>30</xmin><ymin>23</ymin><xmax>101</xmax><ymax>77</ymax></bndbox></object></annotation>

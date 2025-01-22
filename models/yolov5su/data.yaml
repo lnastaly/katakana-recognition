@@ -1,0 +1,5 @@
+train: dataset_yolo/images/train
+val: dataset_yolo/images/val
+
+nc: 10
+names: ['a', 'n', 'no', 'nu', 'shi', 'so', 'su', 'ta', 'tsu', 'ya']

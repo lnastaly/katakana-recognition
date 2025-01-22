@@ -1,0 +1,1 @@
+<annotation><folder>images</folder><filename>fdfe8532-tsu3.png</filename><source><database>Unknown</database></source><size><width>86</width><height>96</height><depth>3</depth></size><object><name>tsu</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>18</xmin><ymin>23</ymin><xmax>72</xmax><ymax>86</ymax></bndbox></object></annotation>

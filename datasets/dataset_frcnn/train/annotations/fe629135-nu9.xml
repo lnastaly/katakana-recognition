@@ -1,0 +1,1 @@
+<annotation><folder>images</folder><filename>fe629135-nu9.jpg</filename><source><database>Unknown</database></source><size><width>551</width><height>474</height><depth>3</depth></size><object><name>nu</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>204</xmin><ymin>176</ymin><xmax>395</xmax><ymax>299</ymax></bndbox></object></annotation>

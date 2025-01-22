@@ -1,0 +1,1 @@
+<annotation><folder>images</folder><filename>fde77422-so7.jpg</filename><source><database>Unknown</database></source><size><width>246</width><height>441</height><depth>3</depth></size><object><name>so</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>61</xmin><ymin>118</ymin><xmax>155</xmax><ymax>298</ymax></bndbox></object></annotation>

@@ -1,0 +1,1 @@
+<annotation><folder>images</folder><filename>678260d0-nu4.png</filename><source><database>Unknown</database></source><size><width>102</width><height>97</height><depth>3</depth></size><object><name>nu</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>14</xmin><ymin>22</ymin><xmax>84</xmax><ymax>73</ymax></bndbox></object></annotation>

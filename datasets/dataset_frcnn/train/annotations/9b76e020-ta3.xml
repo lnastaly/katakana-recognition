@@ -1,0 +1,1 @@
+<annotation><folder>images</folder><filename>9b76e020-ta3.png</filename><source><database>Unknown</database></source><size><width>110</width><height>94</height><depth>3</depth></size><object><name>ta</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>12</xmin><ymin>13</ymin><xmax>97</xmax><ymax>87</ymax></bndbox></object></annotation>
