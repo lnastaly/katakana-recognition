@@ -82,7 +82,7 @@ W trakcie treningu metryki precision, recall oraz F1-score są zapisywane w fold
    ```bash
    python predict.py
    ```
-   *Uwaga: plik predict.py modelu MobileNetV2 obsługuje wykonywanie predykcji tylko na pojedynczym obrazie. Aby zmienić obraz, na którym zostanie wykonana predykcja zmień wartość zmiennej image_path, która określa ścieżkę obrazu*
+   *Uwaga: plik predict.py modelu MobileNetV2 obsługuje wykonywanie predykcji tylko na pojedynczym obrazie. Aby zmienić obraz, na którym zostanie wykonana predykcja zmień wartość zmiennej image_path, która określa ścieżkę obrazu*.
 
 
 4. **Predykcje na wybranych obrazach zostaną wyświetlone w osobnych oknach.**
