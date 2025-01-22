@@ -42,6 +42,8 @@ Projekt
 
 W folderze ***datasets*** znajdują się zbiory danych w formatach przeznaczonych dla wykorzystanych w projekcie modeli 
 
+W folderze ***images*** znajdują się przykładowe obrazy wykorzystywane przez modele do predykcji 
+
 W folderze ***models*** znajdują się podfoldery z użytymi modelami:
 - yolov8m
 - yolov5su
